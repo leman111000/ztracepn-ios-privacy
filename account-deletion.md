@@ -1,4 +1,4 @@
-# Account Deletion — DexPN (iOS)
+# Account Deletion — ZTracePn (iOS)
 
 **Last updated:** 2026-01-19  
 **Support:** @DexNet_Support_bot
@@ -10,7 +10,7 @@ This page explains how to request deletion of information associated with you.
 ## How to request deletion
 Send a deletion request to support:
 
-**@DexNet_Support_bot**
+**@ZTracePn_Support_bot**
 
 In your message, include:
 - A clear statement that you want deletion (for example: “Delete my data”),
@@ -37,4 +37,4 @@ Some limited data may be retained if required by law or necessary to protect the
 ---
 
 ## Questions
-Contact support: **@DexNet_Support_bot**
+Contact support: **@ZTracePn_Support_bot**
