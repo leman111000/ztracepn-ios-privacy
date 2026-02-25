@@ -1,7 +1,6 @@
-# Support — DexPN (iOS)
+# Support — ZTracePn (iOS)
 
 **Last updated:** 2026-01-19  
-**Support:** @DexNet_Support_bot
 
 ---
 
@@ -35,7 +34,3 @@ Please do **not** send passwords or payment card details.
 - Reinstall the app
 - Contact support with crash steps and your iOS/app version
 
----
-
-## Contact
-Support: **@DexNet_Support_bot**
