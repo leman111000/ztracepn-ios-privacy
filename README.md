@@ -1,4 +1,4 @@
-# DexPN iOS — Legal Pages (Privacy / Support / Deletion)
+# ZTracePN iOS — Legal Pages (Privacy / Support / Deletion)
 
 This repository hosts the public legal pages for the DexPN iOS app, published via GitHub Pages:
 
