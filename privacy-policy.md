@@ -1,8 +1,8 @@
-# Privacy Policy — DexPN (iOS)
+# Privacy Policy — ZTracePn (iOS)
 
 **Effective date:** 2026-01-19  
-**Publisher:** Dexnet  
-**Support:** @DexNet_Support_bot
+**Publisher:** ZTracePn  
+**Support:** @ZTracePn_Support_bot
 
 This Privacy Policy explains how DexPN (the “App”) handles information when you use the iOS application. DexPN is a VPN client for iOS that uses Apple VPN / Network Extension capabilities to route network traffic through a selected server.
 
@@ -82,4 +82,4 @@ We may update this Privacy Policy from time to time. The updated version will be
 ---
 
 ## 9) Contact
-For privacy questions or requests, contact support: **@DexNet_Support_bot**
+For privacy questions or requests, contact support: **@ZTracePn_Support_bot**
