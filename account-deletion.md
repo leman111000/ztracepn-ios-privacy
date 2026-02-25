@@ -1,7 +1,6 @@
 # Account Deletion — ZTracePn (iOS)
 
 **Last updated:** 2026-01-19  
-**Support:** @DexNet_Support_bot
 
 This page explains how to request deletion of information associated with you.
 
