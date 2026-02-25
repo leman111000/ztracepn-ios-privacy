@@ -1,5 +1,5 @@
 
-Official legal and support pages for the DexPN iOS app:
+Official legal and support pages for the ZTracePn iOS app:
 
 - [Privacy Policy](./privacy-policy)
 - [Privacy Choices](./privacy-choices)
